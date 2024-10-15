@@ -1,2 +1,2 @@
-# Similar-Image-Detection-
-Similar Finding Extraction 
+# Optimized Image Similarity Search and Duplicate Removal
+
