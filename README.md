@@ -24,7 +24,7 @@ Optimized Data Workflows: Optimizes data pipelines for faster image processing a
 . Bloom Filter: Technique applied to detect and remove duplicate images.
 
 . Matplotlib: Used for visualizing the results, metrics, and performance evaluations.
-https://github.com/m-siddiq-khan/Similar-Image-Detection-/commit/d229c377034d9c5860bb416c97ee57cfaae5ef8d
+download (2).png
 
 # Demo Results
 
